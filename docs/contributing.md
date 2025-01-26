@@ -1,15 +1,15 @@
 # 贡献指南
 
 本网站欢迎一切贡献 🎉  
-不过课程内容只面向浙大图灵班范畴，外来贡献同样欢迎，但注意不要添加无关课程内容。
+不过课程内容只面向西工大CS范畴，外来贡献同样欢迎，但注意不要添加无关课程内容。
 
 如果你想要为本网站进行贡献，以下是一些指南。
 
 ## 本地构建
 1. 克隆本项目 repo
     ```shell
-    $ git clone https://github.com/ZJU-Turing/TuringCourses.git
-    $ cd TuringCourses
+    $ git clone https://github.com/deltaR-3k/npucs-courses.git
+    $ cd npucs-courses
     ```
 2. 安装 python 依赖（mkdocs 以及 material）
     ```shell
@@ -17,8 +17,8 @@
     ```
 3. 安装本文档专用插件
     ```shell
-    $ git clone https://github.com/ZJU-Turing/TuringPlugins.git
-    $ cd TuringPlugins
+    $ git clone https://github.com/deltaR-3k/mkdocs-turing-plugins.git
+    $ cd mkdocs-turing-plugins
     $ pip install -e .
     $ cd ..
     ```
@@ -74,7 +74,7 @@
     - 如果你实在搞不定，不要担心，尽管上传，我们发现后会及时进行修改
 
 !!! note
-    针对还完全没有内容的空页面，我们提供了一个[模板](../template/)，可以在模板的[源码](https://github.com/ZJU-Turing/TuringCourses/blob/master/docs/template.md?plain=1)基础上修改使用。
+    针对还完全没有内容的空页面，我们提供了一个[模板](../template/)，可以在模板的[源码](https://github.com/deltaR-3k/npucs-courses/blob/main/docs/template.md?plain=1)基础上修改使用。
 
 ### 贡献方式
 #### Pull Request（推荐）
