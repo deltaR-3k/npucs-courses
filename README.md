@@ -19,7 +19,3 @@
 </div>
 
 浙江大学图灵班各门课程的学习指南以及学习资源。
-
-网站：https://ZJU-Turing.github.io/TuringCourses
-
-关于贡献，详见 https://ZJU-Turing.github.io/TuringCourses/contributing/

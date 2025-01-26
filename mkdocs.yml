@@ -1,9 +1,9 @@
 site_name: 图灵班学习指南
-site_url: https://ZJU-Turing.github.io/TuringCourses/
+site_url: https://deltaR-3k.github.io/npucs-courses/
 site_description: 图灵班学习指南
-repo_name: ZJU-Turing/TuringCourses
-repo_url: https://github.com/ZJU-Turing/TuringCourses/
-edit_uri: tree/master/docs
+repo_name: deltaR-3k/npucs-courses
+repo_url: https://github.com/deltaR-3k/npucs-courses/
+edit_uri: tree/main/docs
 copyright: Copyright &copy; 2023-2024 浙江大学图灵班
 
 nav:
