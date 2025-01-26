@@ -16,10 +16,10 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -r requirements.txt
-      - name: Install TuringPlugins
+      - name: Install mkdocs-turing-plugins
         run: |
-          git clone https://github.com/ZJU-Turing/TuringPlugins.git
-          cd TuringPlugins
+          git clone https://github.com/deltaR-3k/mkdocs-turing-plugins.git
+          cd mkdocs-turing-plugins
           pip install -e .
           cd ..
       - run: mkdocs gh-deploy --force
